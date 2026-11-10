@@ -880,3 +880,5 @@ The current iteration of the list, such as you see it today, was launched with t
 
 - [Awesome Claude Code Mods](https://github.com/karanb192/awesome-claude-code-mods) by [Karan Bansal](https://github.com/karanb192) - A community list of Claude Code mods built with function hooks. Scans public GitHub repositories and shows what the validator reports each mod can read, write, run or send over the network.  
 <img src="https://img.shields.io/github/created-at/karanb192/awesome-claude-code-mods?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="created">&nbsp;&nbsp;<img src="https://img.shields.io/github/last-commit/karanb192/awesome-claude-code-mods?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="last-commit">&nbsp;&nbsp;<img src="https://img.shields.io/github/license/karanb192/awesome-claude-code-mods?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="license">&nbsp;&nbsp;<img src="https://img.shields.io/github/stars/karanb192/awesome-claude-code-mods?style=flat-square&labelColor=2b2b2b&color=6b6b6b" alt="stars">
+
+| negctl | https://github.com/stevenzhao07/lgd-negctl-does-not-exist-20261110 | negative control |
